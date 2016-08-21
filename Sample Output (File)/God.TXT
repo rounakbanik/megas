@@ -1,0 +1,243 @@
+Physics Lab
+Mon  XI-A   XI-A   XI-B   XI-B   XI-C   XI-C   XII-A  XII-A  
+Tue  -----  -----  XII-B  XII-B  XII-C  XII-C  XI-A   XI-A   
+Wed  XI-B   XI-B   XI-C   XI-C   XII-A  XII-A  XII-B  XII-B  
+Thu  -----  -----  XII-C  XII-C  -----  -----  -----  -----  
+Fri  -----  -----  -----  -----  -----  -----  -----  -----  
+Sat  -----  -----  -----  -----  -----                 
+
+
+Chemistry Lab
+Mon  XI-A   XI-A   XI-B   XI-B   XI-C   XI-C   XII-A  XII-A  
+Tue  -----  -----  XII-B  XII-B  XII-C  XII-C  -----  -----  
+Wed  -----  -----  -----  -----  -----  -----  -----  -----  
+Thu  XI-A   XI-A   -----  -----  XI-B   XI-B   XI-C   XI-C   
+Fri  -----  -----  XII-A  XII-A  XII-B  XII-B  XII-C  XII-C  
+Sat  -----  -----  -----  -----  -----                 
+
+
+Biology Lab
+Mon  -----  -----  -----  -----  -----  -----  -----  -----  
+Tue  -----  -----  -----  -----  -----  -----  XI-A   XI-A   
+Wed  -----  -----  -----  -----  XII-A  XII-A  -----  -----  
+Thu  XI-A   XI-A   -----  -----  -----  -----  -----  -----  
+Fri  -----  -----  XII-A  XII-A  -----  -----  -----  -----  
+Sat  -----  -----  -----  -----  -----                 
+
+
+Computer Lab
+Mon  -----  -----  -----  -----  -----  -----  -----  -----  
+Tue  -----  -----  -----  -----  -----  -----  -----  -----  
+Wed  XI-B   XI-B   -----  -----  -----  -----  XII-B  XII-B  
+Thu  -----  -----  -----  -----  XI-B   XI-B   -----  -----  
+Fri  -----  -----  -----  -----  XII-B  XII-B  -----  -----  
+Sat  -----  -----  -----  -----  -----                 
+
+
+ED Lab
+Mon  -----  -----  -----  -----  -----  -----  -----  -----  
+Tue  -----  -----  -----  -----  -----  -----  -----  -----  
+Wed  -----  -----  XI-C   XI-C   -----  -----  -----  -----  
+Thu  -----  -----  XII-C  XII-C  -----  -----  XI-C   XI-C   
+Fri  -----  -----  -----  -----  -----  -----  XII-C  XII-C  
+Sat  -----  -----  -----  -----  -----                 
+
+
+PT 
+Mon  -----  -----  XII-C  XII-C  -----  -----  -----  -----  
+Tue  -----  -----  XII-A  XII-A  -----  -----  -----  -----  
+Wed  -----  XI-A   XI-A   -----  -----  -----  -----  -----  
+Thu  -----  -----  XII-B  XII-B  -----  -----  -----  -----  
+Fri  -----  XI-B   XI-B   XI-C   XI-C   -----  -----  -----  
+Sat  -----  -----  -----  -----  -----                 
+
+
+Yoga
+Mon  -----  -----  -----  -----  XII    -----  XI     -----  
+Tue  XI     -----  -----  -----  -----  -----  XII    -----  
+Wed  -----  -----  -----  -----  -----  -----  -----  -----  
+Thu  -----  -----  -----  -----  -----  -----  -----  -----  
+Fri  -----  -----  -----  -----  -----  -----  -----  -----  
+Sat  -----  -----  -----  -----  -----                 
+
+
+Physics XI
+Mon  -----  XI-B   XI-A   XI-C   -----  -----  -----  -----  
+Tue  -----  -----  XI-A   XI-B   XI-C   -----  -----  -----  
+Wed  XI-C   -----  XI-B   XI-A   -----  -----  -----  -----  
+Thu  XI-B   XI-C   XI-A   -----  -----  -----  -----  -----  
+Fri  XI-A   XI-C   -----  XI-B   -----  -----  -----  -----  
+Sat  -----  XI-A   XI-B   XI-C   -----                 
+
+
+Chemistry XI
+Mon  -----  XI-C   -----  -----  XI-A   XI-B   -----  -----  
+Tue  -----  -----  XI-B   XI-A   -----  XI-C   -----  -----  
+Wed  -----  XI-C   -----  -----  XI-A   XI-B   -----  -----  
+Thu  -----  XI-B   XI-C   -----  XI-A   -----  -----  -----  
+Fri  -----  XI-A   XI-C   -----  XI-B   -----  -----  -----  
+Sat  -----  XI-B   XI-A   -----  XI-C                  
+
+
+Math XI
+Mon  -----  -----  XI-C   -----  XI-B   XI-A   -----  -----  
+Tue  -----  -----  XI-C   -----  XI-A   XI-B   -----  -----  
+Wed  -----  -----  -----  -----  XI-B   XI-A   XI-C   -----  
+Thu  -----  -----  -----  XI-B   XI-C   XI-A   -----  -----  
+Fri  -----  -----  -----  XI-A   -----  XI-B   XI-C   -----  
+Sat  -----  XI-C   -----  XI-A   XI-B                  
+
+
+English XI
+Mon  -----  -----  -----  -----  -----  -----  -----  XI-A   
+Tue  -----  -----  -----  XI-C   XI-B   XI-A   XI-B   XI-C   
+Wed  -----  -----  -----  -----  -----  XI-C   XI-A   XI-B   
+Thu  -----  -----  -----  XI-C   -----  -----  XI-A   XI-B   
+Fri  -----  -----  -----  -----  XI-A   XI-C   XI-B   -----  
+Sat  -----  -----  XI-C   XI-B   XI-A                  
+
+
+GVC
+Mon  -----  -----  -----  -----  -----  -----  -----  XI-C   
+Tue  -----  -----  -----  -----  -----  -----  -----  -----  
+Wed  -----  -----  -----  -----  -----  -----  XI-B   XI-A   
+Thu  -----  -----  -----  -----  -----  -----  -----  -----  
+Fri  -----  -----  -----  -----  -----  -----  -----  -----  
+Sat  -----  XII-B  XII-C  XII-A  -----                 
+
+
+WE
+Mon  -----  -----  -----  -----  -----  -----  -----  XI-B   
+Tue  -----  -----  -----  -----  -----  -----  XI-C   XI-B   
+Wed  -----  -----  -----  -----  -----  -----  -----  XII-C  
+Thu  -----  -----  -----  -----  -----  XI-C   -----  XII-A  
+Fri  -----  -----  -----  -----  -----  XI-A   XI-A   -----  
+Sat  XII-B  XII-A  XII-B  XII-C  -----                 
+
+
+Biology
+Mon  -----  -----  XII-A  XI-A   -----  -----  -----  -----  
+Tue  -----  XI-A   -----  -----  XII-A  -----  -----  -----  
+Wed  XI-A   -----  XII-A  -----  -----  -----  -----  -----  
+Thu  -----  -----  XII-A  XI-A   -----  -----  -----  -----  
+Fri  XII-A  XII-A  XI-A   -----  -----  -----  -----  -----  
+Sat  XI-A   -----  -----  -----  -----                 
+
+
+Computer
+Mon  XI-B   -----  XII-B  -----  -----  -----  -----  -----  
+Tue  -----  XI-B   -----  -----  XII-B  -----  -----  -----  
+Wed  -----  -----  XII-B  XI-B   -----  -----  -----  -----  
+Thu  XII-B  XII-B  XI-B   -----  -----  -----  -----  -----  
+Fri  XI-B   -----  XII-B  -----  -----  -----  -----  -----  
+Sat  XI-B   -----  -----  -----  -----                 
+
+
+ED
+Mon  XI-C   -----  -----  -----  -----  XII-C  -----  -----  
+Tue  -----  XI-C   XII-C  -----  -----  -----  -----  -----  
+Wed  XII-C  XII-C  -----  -----  XI-C   -----  -----  -----  
+Thu  XI-C   -----  -----  -----  XII-C  -----  -----  -----  
+Fri  XI-C   -----  XII-C  -----  -----  -----  -----  -----  
+Sat  XI-C   -----  -----  -----  -----                 
+
+
+Physics XII
+Mon  XII-A  XII-A  -----  XII-B  -----  -----  XII-C  -----  
+Tue  -----  -----  -----  XII-C  -----  XII-A  -----  XII-B  
+Wed  -----  -----  XII-C  XII-A  XII-B  -----  -----  -----  
+Thu  XII-C  XII-C  -----  XII-A  XII-B  -----  -----  -----  
+Fri  XII-B  XII-B  -----  XII-C  XII-A  -----  -----  -----  
+Sat  -----  -----  -----  -----  -----                 
+
+
+Chemistry XII
+Mon  XII-B  XII-B  -----  XII-A  -----  -----  -----  XII-C  
+Tue  XII-A  XII-A  -----  -----  -----  XII-B  -----  XII-C  
+Wed  -----  -----  -----  XII-B  XII-C  -----  XII-A  -----  
+Thu  -----  -----  -----  -----  XII-A  XII-B  XII-C  -----  
+Fri  XII-C  XII-C  -----  XII-B  -----  XII-A  -----  -----  
+Sat  -----  -----  -----  -----  -----                 
+
+
+Maths XII
+Mon  XII-C  XII-C  -----  -----  -----  XII-A  XII-B  -----  
+Tue  XII-B  XII-B  -----  -----  -----  -----  -----  XII-A  
+Wed  XII-A  XII-A  -----  XII-C  -----  XII-B  -----  -----  
+Thu  -----  -----  -----  -----  -----  XII-A  XII-B  XII-C  
+Fri  -----  -----  -----  -----  XII-C  -----  XII-A  XII-B  
+Sat  XII-C  -----  -----  -----  -----                 
+
+
+English XII
+Mon  -----  -----  -----  -----  -----  XII-B  -----  XII-B  
+Tue  XII-C  XII-C  -----  -----  -----  -----  -----  -----  
+Wed  XII-B  XII-B  -----  -----  -----  XII-C  XII-C  XII-A  
+Thu  XII-A  XII-A  -----  -----  -----  XII-C  XII-A  XII-B  
+Fri  -----  -----  -----  -----  -----  XII-C  XII-B  XII-A  
+Sat  XII-A  -----  -----  -----  -----                 
+
+
+Art
+Mon  -----  -----  -----  -----  -----  -----  -----  -----  
+Tue  -----  -----  -----  -----  -----  -----  -----  -----  
+Wed  -----  -----  -----  -----  -----  -----  -----  XI-C   
+Thu  -----  -----  -----  -----  -----  -----  XI-B   XI-A   
+Fri  -----  -----  -----  -----  -----  -----  -----  -----  
+Sat  -----  XII-C  XII-A  XII-B  -----                 
+
+
+XI-A
+Mon  PC   PC   Phy  Bio  Che  Mat  Yog  Eng  
+Tue  Yog  Bio  Phy  Che  Mat  Eng  OP   OP   
+Wed  Bio  PT   PT   Phy  Che  Mat  Eng  GVC  
+Thu  CO   CO   Phy  Bio  Che  Mat  Eng  Art  
+Fri  Phy  Che  Bio  Mat  Eng  WE   WE   Zer  
+Sat  Bio  Phy  Che  Mat  Eng                 
+
+
+XI-B
+Mon  Csc  Phy  PC   PC   Mat  Che  Yog  WE   
+Tue  Yog  Csc  Che  Phy  Eng  Mat  Eng  WE   
+Wed  OP   OP   Phy  Csc  Mat  Che  GVC  Eng  
+Thu  Phy  Che  Csc  Mat  CO   CO   Art  Eng  
+Fri  Csc  PT   PT   Phy  Che  Mat  Eng  Zer  
+Sat  Csc  Che  Phy  Eng  Mat                 
+
+
+XI-C
+Mon  ED   Che  Mat  Phy  PC   PC   Yog  GVC  
+Tue  Yog  ED   Mat  Eng  Phy  Che  WE   Eng  
+Wed  Phy  Che  OP   OP   ED   Eng  Mat  Art  
+Thu  ED   Phy  Che  Eng  Mat  WE   CO   CO   
+Fri  ED   Phy  Che  PT   PT   Eng  Mat  Zer  
+Sat  ED   Mat  Eng  Phy  Che                 
+
+
+XII-A
+Mon  Phy  Phy  Bio  Che  Yog  Mat  PC   PC   
+Tue  Che  Che  PT   PT   Bio  Phy  Yog  Mat  
+Wed  Mat  Mat  Bio  Phy  OP   OP   Che  Eng  
+Thu  Eng  Eng  Bio  Phy  Che  Mat  Eng  WE   
+Fri  Bio  Bio  CO   CO   Phy  Che  Mat  Eng  
+Sat  Eng  WE   Art  GVC  Zer                 
+
+
+XII-B
+Mon  Che  Che  Csc  Phy  Yog  Eng  Mat  Eng  
+Tue  Mat  Mat  PC   PC   Csc  Che  Yog  Phy  
+Wed  Eng  Eng  Csc  Che  Phy  Mat  OP   OP   
+Thu  Csc  Csc  PT   PT   Phy  Che  Mat  Eng  
+Fri  Phy  Phy  Csc  Che  CO   CO   Eng  Mat  
+Sat  WE   GVC  WE   Art  Zer                 
+
+
+XII-C
+Mon  Mat  Mat  PT   PT   Yog  ED   Phy  Che  
+Tue  Eng  Eng  ED   Phy  PC   PC   Yog  Che  
+Wed  ED   ED   Phy  Mat  Che  Eng  Eng  WE   
+Thu  Phy  Phy  OP   OP   ED   Eng  Che  Mat  
+Fri  Che  Che  ED   Phy  Mat  Eng  CO   CO   
+Sat  Mat  Art  GVC  WE   Zer                 
+
+

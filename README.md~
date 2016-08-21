@@ -1,0 +1,63 @@
+<h1>MEGAS TIMETABLE GENERATOR</h1>
+
+<h2>GENERAL CONSTRAINTS:</h2>
+
+<ol>
+<li>The timetable has been generated according to the format followed by D.A.V Boys Sr. Sec. School, Gopalpuram.</li>
+<li>The timetable has been generated for the Science stream of High School classes.</li>
+<li>The school for functions for 6 days in a week.</li>
+<li>There are eight periods everyday, except for Saturdays which has only 5 working periods.</li>
+There are three sections each in classes XI and XII amounting to a total of 6 classes.</li>
+There are 20 staff members in the High School.</li>
+The school has a facility of six labs; Physics, Chemistry, Biology, Computer Science, ED.</li>
+</ol>
+
+<h2>CLASSROOM CONSTRAINTS:</h2>
+
+1. Each class has a maximum strength of 40 students.</li>
+2. Each class can attend only one period at a time.</li>
+3. The exception to the above statement is during practical periods when the class divides into two and attends two different practical classes.</li>
+4. For class XII students, the first two periods of the five, full working days has to be a block periods of one of the main subjects; Physics, Chemistry, Maths, Optional and English.</li>
+5. 'A' sections of both classes have their optional subject has Biology, 'B' sections have Computer Science and 'C' sections have Engineering Drawing (ED).</li>
+6. Each class has the following subjects:
+   Physics, Chemistry, Maths, Optional, English, Physics Practicals, Chemistry Practicals, Optional Pracitcals, GVC, WE, Yoga, Art, Zero hour and PT.</li>
+
+TEACHER CONSTRAINTS:
+
+1. There are 20 staff members in the High School.</li>
+2. Each teacher can attend only one class at a time.</li>
+3. No more than one teacher can attend a particular class at a time.</li>
+4. No teacher can have more than 6 periods in a day. The exception to this rule are the Science labs.</li>
+5. No teacher can have more than 30 periods in a week.</li>
+6. Each teacher has to teach the full class strength during her alloted slot. Again, the exception to this rule are the labs.</li>
+
+STAFF STATISTICS:
+
+1. Physics:             2 (One each for class XI and XII)</li>
+2. Chemistry:           2 (One each for class XI and XII)</li>
+3. Mathematics:         2 (One each for class XI and XII)</li>
+4. English:             2 (One each for class XI and XII)</li>
+5. Biology:             1</li>
+6. Computer Science:    1</li>
+7. Engineering Drawing: 1</li>
+8. Physics Lab:         1</li>
+9. Chemistry Lab:       1</li>
+10.Biology Lab:         1</li>
+11. C.SC lab:           1</li>
+12. ED lab:             1</li>
+13. Yoga:               1</li>
+14. Work Experience:    1</li>
+15. GVC:                1</li>
+16. PT:                 1</li>
+(Zero hour has no staff member alloted)
+
+SUBJECT CONSTRAINTS:
+
+1. The main subjects (mentioned above) have 6 theory periods and 2 practical periods in a week. The theory and pracitcal periods are handled by different teachers.</li> 
+2. There are three block practical periods in a week, amounting to a total of 6 periods. Each practical periods allots itself to two labs. The class is divided into two and attends the two labs separately.</li>
+3. The labs have a strength of maximum 20 students.</li>
+4. Each class has 2 Physical Timings (PT) periods in a week. These periods are required to be in a block. Only one class can attend PT at a time.</li>
+5. There are 2 Yoga periods for each class in a week. The Yoga periods have the same slots for class XI and class XII. Three classes attend Yoga at a time.</li>
+6. There is 1 Zero Hour for each class in a week. The Zero hours have the same slots for class XI and class XII.</li>
+7. There are 1 GVC and 1 Art period for eac class in a week. No two classes can attend these periods at the same time.</li>
+8. PT, GVC, WE and Art cannot be alloted the first slot on any given day. </li>
